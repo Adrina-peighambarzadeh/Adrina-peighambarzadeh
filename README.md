@@ -1,5 +1,7 @@
 <h1>Hi there 👋</h1>
 <p>My name is Adrina peighambarzadeh and I'm a student in <a href="https://teh.ocsb.ca/">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+<img src="https://i.pinimg.com/236x/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.jpg" alt="29 GitHub ideas | github, founding fathers, github logo"/>![image](https://github.com/user-attachments/assets/2af3a55c-d678-421f-98e1-137dbfba303b)
+
 
 <h2>✍ Programming Languages</h2>
 <p>

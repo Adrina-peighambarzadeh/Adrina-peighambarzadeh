@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<p>My name is Adrina peighambarzadeh and I'm a student in <a href="[http://mths.ca](https://teh.ocsb.ca/)">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+<p>My name is Adrina peighambarzadeh and I'm a student in <a href="https://teh.ocsb.ca/">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
 
 <h2>✍ Programming Languages</h2>
 <p>
